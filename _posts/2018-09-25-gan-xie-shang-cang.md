@@ -2,9 +2,9 @@
 title: 感谢上苍
 date: 2003/12/11
 categories: 
-- 
+- 家庭 
 tags: 
-- 
+- 家庭
 typora-root-url: ../
 typora-copy-images-to: ../assets/blogImg
 ---

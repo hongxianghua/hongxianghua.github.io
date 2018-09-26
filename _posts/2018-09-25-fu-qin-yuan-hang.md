@@ -2,9 +2,9 @@
 title: 父亲远行
 date: 2017/09/21
 categories: 
-- 
+- 父亲 
 tags: 
-- 
+- 父亲
 typora-root-url: ../
 typora-copy-images-to: ../assets/blogImg
 ---

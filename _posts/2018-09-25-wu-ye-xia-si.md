@@ -2,9 +2,9 @@
 title: 午夜遐思
 date: 2005/10/03
 categories: 
-- 
+- 诗 
 tags: 
-- 
+- 诗
 typora-root-url: ../
 typora-copy-images-to: ../assets/blogImg
 ---

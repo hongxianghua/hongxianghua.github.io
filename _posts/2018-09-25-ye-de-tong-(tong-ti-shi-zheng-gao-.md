@@ -2,9 +2,9 @@
 title: 叶的痛(同题诗征稿)
 date: 2018/08/30
 categories: 
-- 
+- 诗 
 tags: 
-- 
+- 诗
 typora-root-url: ../
 typora-copy-images-to: ../assets/blogImg
 ---
